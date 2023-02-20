@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Creepster&display=swap");
+
+.container {
+	height: 200px;
+	position: relative;
+    text-align: center;
+}
+
+button {
+    margin: auto;
+	border-radius: 30px;
+	width: 150px;
+	height: 100px;
+	background: #490404;
+	color: #fff;
+	border-color: #fff;
+	border-width: 5px;
+	font-family: "Creepster", cursive;
+	font-size: 25px;
+	padding: 5px;
+}
